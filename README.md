@@ -1,7 +1,5 @@
 # The Thomson Problem
 
-**Author:** Christian Jay P. Magsigay  
-
 ---
 
 ## Project Overview
