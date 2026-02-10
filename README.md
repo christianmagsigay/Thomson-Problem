@@ -29,9 +29,9 @@ The simulation follows these key steps:
 
 - **Surface Constraint**  
   After each time step, particle position vectors are re-normalized to ensure they remain on the surface of the unit sphere  
-  $$
+  \(
   |\mathbf{R}| = 1
-  $$
+  \)
 
 - **Symplectic Euler Method**  
   A structure-preserving numerical integration scheme used to update velocities and positions while maintaining the Hamiltonian properties of the system.
